@@ -1,0 +1,42 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/lib/gcc/arm-none-eabi/10.3.1/include",
+                "${workspaceFolder}/Core",
+                "${workspaceFolder}/GD32F30x_standard_peripheral/Include",
+                "${workspaceFolder}/Device_Drivers_Layer",
+                "${workspaceFolder}/Hardware_Abstraction_Layer",
+                "${workspaceFolder}/Software/Include",
+                "${workspaceFolder}/Startup",
+                "${workspaceFolder}/USER",
+                "${workspaceFolder}/lvgl/lvgl",
+                "${workspaceFolder}/lvgl/lvgl/src",
+                "${workspaceFolder}/lvgl/lvgl/porting",
+                "${workspaceFolder}/lvgl/lvgl/src/core",
+                "${workspaceFolder}/lvgl/lvgl/src/extra/libs",
+                "${workspaceFolder}/FreeRTOS/Source/CMSIS_RTOS_V2",
+                "${workspaceFolder}/FreeRTOS/Source/include",
+                "${workspaceFolder}/FreeRTOS/Source/portable/GCC/ARM_CM4F",
+                "${workspaceFolder}/FatFS",
+                "${workspaceFolder}/USB/class/device/msc/Include",
+                "${workspaceFolder}/USB/device/Include",
+                "${workspaceFolder}/USB/usbd/Include",
+                "${workspaceFolder}/USB/msc_udisk/inc"
+          
+
+            ],
+            "defines": [
+                "USE_STDPERIPH_DRIVER",
+                "GD32F30X_HD",
+                "__TARGET_FPU_VFP",
+                "ARM_MATH_CM4"
+            ],
+            "compilerPath":"C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe",
+            "intelliSenseMode": "gcc-x64"
+
+        }
+    ],
+    "version": 4
+}

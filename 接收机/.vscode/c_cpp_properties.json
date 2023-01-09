@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/lib/gcc/arm-none-eabi/10.3.1/include",
+                "${workspaceFolder}/CMSIS/Include",
+                "${workspaceFolder}/GD32E23x_standard_peripheral/Include",
+                "${workspaceFolder}/Hardware_Abstraction_Layer",
+                "${workspaceFolder}/Device_Drivers_Layer",
+                "${workspaceFolder}/Software_Layer",
+                "${workspaceFolder}/USER"
+
+            ],
+            "defines": [
+                "GD32E230"
+            ],
+            "compilerPath":"C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe",
+            "intelliSenseMode": "gcc-x64"
+
+        }
+    ],
+    "version": 4
+}

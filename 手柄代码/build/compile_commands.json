@@ -1,0 +1,152 @@
+[
+{
+  "directory": "C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/build",
+  "command": "\"C:/Program Failes (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe\" -DARM_MATH_CM4 -DGD32F30X_HD -DUSE_STDPERIPH_DRIVER -D__TARGET_FPU_VFP -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Startup -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Software/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Hardware_drv/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Core -g -mfloat-abi=hard -mfpu=fpv4-sp-d16 -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11 -o CMakeFiles/GD32F303.elf.dir/GD32F30x_standard_peripheral/Source/gd32f30x_adc.c.obj -c C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Source/gd32f30x_adc.c",
+  "file": "C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Source/gd32f30x_adc.c"
+},
+{
+  "directory": "C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/build",
+  "command": "\"C:/Program Failes (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe\" -DARM_MATH_CM4 -DGD32F30X_HD -DUSE_STDPERIPH_DRIVER -D__TARGET_FPU_VFP -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Startup -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Software/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Hardware_drv/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Core -g -mfloat-abi=hard -mfpu=fpv4-sp-d16 -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11 -o CMakeFiles/GD32F303.elf.dir/GD32F30x_standard_peripheral/Source/gd32f30x_bkp.c.obj -c C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Source/gd32f30x_bkp.c",
+  "file": "C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Source/gd32f30x_bkp.c"
+},
+{
+  "directory": "C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/build",
+  "command": "\"C:/Program Failes (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe\" -DARM_MATH_CM4 -DGD32F30X_HD -DUSE_STDPERIPH_DRIVER -D__TARGET_FPU_VFP -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Startup -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Software/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Hardware_drv/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Core -g -mfloat-abi=hard -mfpu=fpv4-sp-d16 -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11 -o CMakeFiles/GD32F303.elf.dir/GD32F30x_standard_peripheral/Source/gd32f30x_can.c.obj -c C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Source/gd32f30x_can.c",
+  "file": "C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Source/gd32f30x_can.c"
+},
+{
+  "directory": "C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/build",
+  "command": "\"C:/Program Failes (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe\" -DARM_MATH_CM4 -DGD32F30X_HD -DUSE_STDPERIPH_DRIVER -D__TARGET_FPU_VFP -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Startup -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Software/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Hardware_drv/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Core -g -mfloat-abi=hard -mfpu=fpv4-sp-d16 -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11 -o CMakeFiles/GD32F303.elf.dir/GD32F30x_standard_peripheral/Source/gd32f30x_crc.c.obj -c C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Source/gd32f30x_crc.c",
+  "file": "C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Source/gd32f30x_crc.c"
+},
+{
+  "directory": "C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/build",
+  "command": "\"C:/Program Failes (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe\" -DARM_MATH_CM4 -DGD32F30X_HD -DUSE_STDPERIPH_DRIVER -D__TARGET_FPU_VFP -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Startup -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Software/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Hardware_drv/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Core -g -mfloat-abi=hard -mfpu=fpv4-sp-d16 -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11 -o CMakeFiles/GD32F303.elf.dir/GD32F30x_standard_peripheral/Source/gd32f30x_ctc.c.obj -c C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Source/gd32f30x_ctc.c",
+  "file": "C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Source/gd32f30x_ctc.c"
+},
+{
+  "directory": "C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/build",
+  "command": "\"C:/Program Failes (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe\" -DARM_MATH_CM4 -DGD32F30X_HD -DUSE_STDPERIPH_DRIVER -D__TARGET_FPU_VFP -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Startup -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Software/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Hardware_drv/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Core -g -mfloat-abi=hard -mfpu=fpv4-sp-d16 -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11 -o CMakeFiles/GD32F303.elf.dir/GD32F30x_standard_peripheral/Source/gd32f30x_dac.c.obj -c C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Source/gd32f30x_dac.c",
+  "file": "C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Source/gd32f30x_dac.c"
+},
+{
+  "directory": "C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/build",
+  "command": "\"C:/Program Failes (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe\" -DARM_MATH_CM4 -DGD32F30X_HD -DUSE_STDPERIPH_DRIVER -D__TARGET_FPU_VFP -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Startup -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Software/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Hardware_drv/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Core -g -mfloat-abi=hard -mfpu=fpv4-sp-d16 -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11 -o CMakeFiles/GD32F303.elf.dir/GD32F30x_standard_peripheral/Source/gd32f30x_dbg.c.obj -c C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Source/gd32f30x_dbg.c",
+  "file": "C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Source/gd32f30x_dbg.c"
+},
+{
+  "directory": "C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/build",
+  "command": "\"C:/Program Failes (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe\" -DARM_MATH_CM4 -DGD32F30X_HD -DUSE_STDPERIPH_DRIVER -D__TARGET_FPU_VFP -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Startup -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Software/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Hardware_drv/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Core -g -mfloat-abi=hard -mfpu=fpv4-sp-d16 -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11 -o CMakeFiles/GD32F303.elf.dir/GD32F30x_standard_peripheral/Source/gd32f30x_dma.c.obj -c C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Source/gd32f30x_dma.c",
+  "file": "C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Source/gd32f30x_dma.c"
+},
+{
+  "directory": "C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/build",
+  "command": "\"C:/Program Failes (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe\" -DARM_MATH_CM4 -DGD32F30X_HD -DUSE_STDPERIPH_DRIVER -D__TARGET_FPU_VFP -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Startup -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Software/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Hardware_drv/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Core -g -mfloat-abi=hard -mfpu=fpv4-sp-d16 -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11 -o CMakeFiles/GD32F303.elf.dir/GD32F30x_standard_peripheral/Source/gd32f30x_enet.c.obj -c C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Source/gd32f30x_enet.c",
+  "file": "C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Source/gd32f30x_enet.c"
+},
+{
+  "directory": "C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/build",
+  "command": "\"C:/Program Failes (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe\" -DARM_MATH_CM4 -DGD32F30X_HD -DUSE_STDPERIPH_DRIVER -D__TARGET_FPU_VFP -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Startup -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Software/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Hardware_drv/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Core -g -mfloat-abi=hard -mfpu=fpv4-sp-d16 -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11 -o CMakeFiles/GD32F303.elf.dir/GD32F30x_standard_peripheral/Source/gd32f30x_exmc.c.obj -c C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Source/gd32f30x_exmc.c",
+  "file": "C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Source/gd32f30x_exmc.c"
+},
+{
+  "directory": "C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/build",
+  "command": "\"C:/Program Failes (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe\" -DARM_MATH_CM4 -DGD32F30X_HD -DUSE_STDPERIPH_DRIVER -D__TARGET_FPU_VFP -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Startup -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Software/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Hardware_drv/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Core -g -mfloat-abi=hard -mfpu=fpv4-sp-d16 -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11 -o CMakeFiles/GD32F303.elf.dir/GD32F30x_standard_peripheral/Source/gd32f30x_exti.c.obj -c C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Source/gd32f30x_exti.c",
+  "file": "C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Source/gd32f30x_exti.c"
+},
+{
+  "directory": "C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/build",
+  "command": "\"C:/Program Failes (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe\" -DARM_MATH_CM4 -DGD32F30X_HD -DUSE_STDPERIPH_DRIVER -D__TARGET_FPU_VFP -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Startup -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Software/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Hardware_drv/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Core -g -mfloat-abi=hard -mfpu=fpv4-sp-d16 -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11 -o CMakeFiles/GD32F303.elf.dir/GD32F30x_standard_peripheral/Source/gd32f30x_fmc.c.obj -c C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Source/gd32f30x_fmc.c",
+  "file": "C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Source/gd32f30x_fmc.c"
+},
+{
+  "directory": "C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/build",
+  "command": "\"C:/Program Failes (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe\" -DARM_MATH_CM4 -DGD32F30X_HD -DUSE_STDPERIPH_DRIVER -D__TARGET_FPU_VFP -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Startup -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Software/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Hardware_drv/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Core -g -mfloat-abi=hard -mfpu=fpv4-sp-d16 -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11 -o CMakeFiles/GD32F303.elf.dir/GD32F30x_standard_peripheral/Source/gd32f30x_fwdgt.c.obj -c C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Source/gd32f30x_fwdgt.c",
+  "file": "C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Source/gd32f30x_fwdgt.c"
+},
+{
+  "directory": "C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/build",
+  "command": "\"C:/Program Failes (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe\" -DARM_MATH_CM4 -DGD32F30X_HD -DUSE_STDPERIPH_DRIVER -D__TARGET_FPU_VFP -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Startup -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Software/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Hardware_drv/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Core -g -mfloat-abi=hard -mfpu=fpv4-sp-d16 -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11 -o CMakeFiles/GD32F303.elf.dir/GD32F30x_standard_peripheral/Source/gd32f30x_gpio.c.obj -c C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Source/gd32f30x_gpio.c",
+  "file": "C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Source/gd32f30x_gpio.c"
+},
+{
+  "directory": "C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/build",
+  "command": "\"C:/Program Failes (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe\" -DARM_MATH_CM4 -DGD32F30X_HD -DUSE_STDPERIPH_DRIVER -D__TARGET_FPU_VFP -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Startup -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Software/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Hardware_drv/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Core -g -mfloat-abi=hard -mfpu=fpv4-sp-d16 -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11 -o CMakeFiles/GD32F303.elf.dir/GD32F30x_standard_peripheral/Source/gd32f30x_i2c.c.obj -c C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Source/gd32f30x_i2c.c",
+  "file": "C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Source/gd32f30x_i2c.c"
+},
+{
+  "directory": "C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/build",
+  "command": "\"C:/Program Failes (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe\" -DARM_MATH_CM4 -DGD32F30X_HD -DUSE_STDPERIPH_DRIVER -D__TARGET_FPU_VFP -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Startup -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Software/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Hardware_drv/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Core -g -mfloat-abi=hard -mfpu=fpv4-sp-d16 -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11 -o CMakeFiles/GD32F303.elf.dir/GD32F30x_standard_peripheral/Source/gd32f30x_misc.c.obj -c C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Source/gd32f30x_misc.c",
+  "file": "C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Source/gd32f30x_misc.c"
+},
+{
+  "directory": "C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/build",
+  "command": "\"C:/Program Failes (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe\" -DARM_MATH_CM4 -DGD32F30X_HD -DUSE_STDPERIPH_DRIVER -D__TARGET_FPU_VFP -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Startup -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Software/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Hardware_drv/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Core -g -mfloat-abi=hard -mfpu=fpv4-sp-d16 -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11 -o CMakeFiles/GD32F303.elf.dir/GD32F30x_standard_peripheral/Source/gd32f30x_pmu.c.obj -c C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Source/gd32f30x_pmu.c",
+  "file": "C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Source/gd32f30x_pmu.c"
+},
+{
+  "directory": "C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/build",
+  "command": "\"C:/Program Failes (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe\" -DARM_MATH_CM4 -DGD32F30X_HD -DUSE_STDPERIPH_DRIVER -D__TARGET_FPU_VFP -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Startup -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Software/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Hardware_drv/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Core -g -mfloat-abi=hard -mfpu=fpv4-sp-d16 -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11 -o CMakeFiles/GD32F303.elf.dir/GD32F30x_standard_peripheral/Source/gd32f30x_rcu.c.obj -c C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Source/gd32f30x_rcu.c",
+  "file": "C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Source/gd32f30x_rcu.c"
+},
+{
+  "directory": "C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/build",
+  "command": "\"C:/Program Failes (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe\" -DARM_MATH_CM4 -DGD32F30X_HD -DUSE_STDPERIPH_DRIVER -D__TARGET_FPU_VFP -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Startup -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Software/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Hardware_drv/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Core -g -mfloat-abi=hard -mfpu=fpv4-sp-d16 -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11 -o CMakeFiles/GD32F303.elf.dir/GD32F30x_standard_peripheral/Source/gd32f30x_rtc.c.obj -c C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Source/gd32f30x_rtc.c",
+  "file": "C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Source/gd32f30x_rtc.c"
+},
+{
+  "directory": "C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/build",
+  "command": "\"C:/Program Failes (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe\" -DARM_MATH_CM4 -DGD32F30X_HD -DUSE_STDPERIPH_DRIVER -D__TARGET_FPU_VFP -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Startup -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Software/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Hardware_drv/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Core -g -mfloat-abi=hard -mfpu=fpv4-sp-d16 -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11 -o CMakeFiles/GD32F303.elf.dir/GD32F30x_standard_peripheral/Source/gd32f30x_sdio.c.obj -c C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Source/gd32f30x_sdio.c",
+  "file": "C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Source/gd32f30x_sdio.c"
+},
+{
+  "directory": "C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/build",
+  "command": "\"C:/Program Failes (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe\" -DARM_MATH_CM4 -DGD32F30X_HD -DUSE_STDPERIPH_DRIVER -D__TARGET_FPU_VFP -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Startup -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Software/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Hardware_drv/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Core -g -mfloat-abi=hard -mfpu=fpv4-sp-d16 -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11 -o CMakeFiles/GD32F303.elf.dir/GD32F30x_standard_peripheral/Source/gd32f30x_spi.c.obj -c C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Source/gd32f30x_spi.c",
+  "file": "C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Source/gd32f30x_spi.c"
+},
+{
+  "directory": "C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/build",
+  "command": "\"C:/Program Failes (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe\" -DARM_MATH_CM4 -DGD32F30X_HD -DUSE_STDPERIPH_DRIVER -D__TARGET_FPU_VFP -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Startup -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Software/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Hardware_drv/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Core -g -mfloat-abi=hard -mfpu=fpv4-sp-d16 -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11 -o CMakeFiles/GD32F303.elf.dir/GD32F30x_standard_peripheral/Source/gd32f30x_timer.c.obj -c C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Source/gd32f30x_timer.c",
+  "file": "C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Source/gd32f30x_timer.c"
+},
+{
+  "directory": "C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/build",
+  "command": "\"C:/Program Failes (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe\" -DARM_MATH_CM4 -DGD32F30X_HD -DUSE_STDPERIPH_DRIVER -D__TARGET_FPU_VFP -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Startup -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Software/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Hardware_drv/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Core -g -mfloat-abi=hard -mfpu=fpv4-sp-d16 -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11 -o CMakeFiles/GD32F303.elf.dir/GD32F30x_standard_peripheral/Source/gd32f30x_usart.c.obj -c C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Source/gd32f30x_usart.c",
+  "file": "C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Source/gd32f30x_usart.c"
+},
+{
+  "directory": "C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/build",
+  "command": "\"C:/Program Failes (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe\" -DARM_MATH_CM4 -DGD32F30X_HD -DUSE_STDPERIPH_DRIVER -D__TARGET_FPU_VFP -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Startup -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Software/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Hardware_drv/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Core -g -mfloat-abi=hard -mfpu=fpv4-sp-d16 -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11 -o CMakeFiles/GD32F303.elf.dir/GD32F30x_standard_peripheral/Source/gd32f30x_wwdgt.c.obj -c C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Source/gd32f30x_wwdgt.c",
+  "file": "C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Source/gd32f30x_wwdgt.c"
+},
+{
+  "directory": "C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/build",
+  "command": "\"C:/Program Failes (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe\" -DARM_MATH_CM4 -DGD32F30X_HD -DUSE_STDPERIPH_DRIVER -D__TARGET_FPU_VFP -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Startup -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Software/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Hardware_drv/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Core -g -mfloat-abi=hard -mfpu=fpv4-sp-d16 -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11 -o CMakeFiles/GD32F303.elf.dir/Hardware_drv/Source/ws2812_drv.c.obj -c C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Hardware_drv/Source/ws2812_drv.c",
+  "file": "C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Hardware_drv/Source/ws2812_drv.c"
+},
+{
+  "directory": "C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/build",
+  "command": "\"C:/Program Failes (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe\" -DARM_MATH_CM4 -DGD32F30X_HD -DUSE_STDPERIPH_DRIVER -D__TARGET_FPU_VFP -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Startup -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Software/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Hardware_drv/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Core -g -mfloat-abi=hard -mfpu=fpv4-sp-d16 -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11 -o CMakeFiles/GD32F303.elf.dir/Software/Source/System_time.c.obj -c C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Software/Source/System_time.c",
+  "file": "C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Software/Source/System_time.c"
+},
+{
+  "directory": "C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/build",
+  "command": "\"C:/Program Failes (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe\" -DARM_MATH_CM4 -DGD32F30X_HD -DUSE_STDPERIPH_DRIVER -D__TARGET_FPU_VFP -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Startup -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Software/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Hardware_drv/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Core -g -mfloat-abi=hard -mfpu=fpv4-sp-d16 -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11 -o CMakeFiles/GD32F303.elf.dir/Startup/gd32f30x_it.c.obj -c C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Startup/gd32f30x_it.c",
+  "file": "C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Startup/gd32f30x_it.c"
+},
+{
+  "directory": "C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/build",
+  "command": "\"C:/Program Failes (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe\" -DARM_MATH_CM4 -DGD32F30X_HD -DUSE_STDPERIPH_DRIVER -D__TARGET_FPU_VFP -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Startup -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Software/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Hardware_drv/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Core -g -mfloat-abi=hard -mfpu=fpv4-sp-d16 -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11 -o CMakeFiles/GD32F303.elf.dir/Startup/system_gd32f30x.c.obj -c C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Startup/system_gd32f30x.c",
+  "file": "C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Startup/system_gd32f30x.c"
+},
+{
+  "directory": "C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/build",
+  "command": "\"C:/Program Failes (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe\" -DARM_MATH_CM4 -DGD32F30X_HD -DUSE_STDPERIPH_DRIVER -D__TARGET_FPU_VFP -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Startup -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Software/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Hardware_drv/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Core -g -mfloat-abi=hard -mfpu=fpv4-sp-d16 -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11 -o CMakeFiles/GD32F303.elf.dir/USER/main.c.obj -c C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/USER/main.c",
+  "file": "C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/USER/main.c"
+},
+{
+  "directory": "C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/build",
+  "command": "\"C:/Program Failes (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe\" -DARM_MATH_CM4 -DGD32F30X_HD -DUSE_STDPERIPH_DRIVER -D__TARGET_FPU_VFP -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Startup -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Software/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Hardware_drv/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/GD32F30x_standard_peripheral/Include -IC:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/Core -g -mfloat-abi=hard -mfpu=fpv4-sp-d16 -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles/GD32F303.elf.dir/startup_gd32f30x_hd.s.obj -c C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/startup_gd32f30x_hd.s",
+  "file": "C:/Users/Underdog_ZHL/Desktop/GD32F303RCT6M/startup_gd32f30x_hd.s"
+}
+]

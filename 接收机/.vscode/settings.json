@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "gd32e23x.h": "c",
+        "gd32e23x_rcu.h": "c",
+        "pwm_drv.h": "c",
+        "gd32e23x_gpio.h": "c",
+        "common_inc.h": "c",
+        "motor_esc_drv.h": "c",
+        "configuration_hal.h": "c",
+        "cmp_hal.h": "c",
+        "spi_hal.h": "c",
+        "si24r1_drv.h": "c",
+        "cstdint": "c",
+        "gd32e23x_timer.h": "c"
+    },
+    "cortex-debug.variableUseNaturalFormat": true
+}

@@ -1,0 +1,10 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Underdog_ZHL/Desktop/Project/shoubing/GD32F303RCT6_shoubing -usb-1/startup_gd32f30x_hd.s
+

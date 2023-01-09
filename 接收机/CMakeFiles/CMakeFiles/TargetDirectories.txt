@@ -1,0 +1,3 @@
+C:/Users/Underdog_ZHL/Desktop/Project/GD32E230_Wireless_serial_port3/CMakeFiles/CMakeFiles/GD32E230_demo.elf.dir
+C:/Users/Underdog_ZHL/Desktop/Project/GD32E230_Wireless_serial_port3/CMakeFiles/CMakeFiles/edit_cache.dir
+C:/Users/Underdog_ZHL/Desktop/Project/GD32E230_Wireless_serial_port3/CMakeFiles/CMakeFiles/rebuild_cache.dir

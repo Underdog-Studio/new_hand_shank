@@ -1,0 +1,3 @@
+C:/Users/Underdog_ZHL/Desktop/Project/shoubing/GD32F303RCT6_shoubing -usb-1/CMakeFile/CMakeFiles/GD32F303.elf.dir
+C:/Users/Underdog_ZHL/Desktop/Project/shoubing/GD32F303RCT6_shoubing -usb-1/CMakeFile/CMakeFiles/edit_cache.dir
+C:/Users/Underdog_ZHL/Desktop/Project/shoubing/GD32F303RCT6_shoubing -usb-1/CMakeFile/CMakeFiles/rebuild_cache.dir
